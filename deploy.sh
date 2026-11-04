@@ -3,8 +3,8 @@
 set -euo pipefail
 
 # Update these two values before running
-KEY="$HOME/Downloads/vpc-web-server.pem"
-SERVER="ec2-user@98.86.157.113"
+KEY="$HOME/Downloads/cloud-portfolio.pem"
+SERVER="ec2-user@13.210.68.50"
 
 echo "Starting website deployment..."
 
